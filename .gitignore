@@ -1,0 +1,16 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.logoverride.tfoverride.tf.json
+*_override.tf
+*_override.tf.json
+.terraform.lock.hcl
+*.tfvars
+*.tfvars.json
+*.out
+plan.out
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
